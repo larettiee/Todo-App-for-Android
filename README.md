@@ -8,7 +8,7 @@
 
 Простое приложение для управления задачами на Android
 
-<img src="https://via.placeholder.com/300x600/667eea/ffffff?text=Simple+Todo" width="200" alt="App Screenshot">
+<img src="https://github.com/larettiee/Todo-App-for-Android/issues/1#issue-3609106157" width="200" alt="App Screenshot">
 
 </div>
 
